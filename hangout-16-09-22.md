@@ -9,7 +9,7 @@
 - Escopo
 - Resumo do escopo
 
-Justificativa da escolha das tecnologias
+## Justificativa da escolha das tecnologias
 - Angular 2 (https://angular.io/)
 - Material Design para Angular (https://getmdl.io/)
   - Para Angular2 ainda em alfa (https://material.angular.io/)
